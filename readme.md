@@ -18,3 +18,7 @@ How to use
 ----------
 
 Call the tool with -h to see the options
+
+You can just call the tool with the filename of the resourcepack to shrink 
+and you can optional change the source and target resolutions with help of parameters.
+Default resolution is shrinking from 128x128 to 64x64.
